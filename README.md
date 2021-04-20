@@ -2,4 +2,4 @@
 
 * You will edit this file to act as the main index page for your project 
 
-* Change the title and write an overview of your project and description of the content.
+I will look at what people are happy for based on the happy moments survey data.
