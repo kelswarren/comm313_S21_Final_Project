@@ -2,4 +2,4 @@
 
 * You will edit this file to act as the main index page for your project 
 
-I will look at what people are happy for based on the happy moments survey data.
+I will look at what people are happy for based on various computation text analysis. I will use data from the Happy Moments Survey Data.
