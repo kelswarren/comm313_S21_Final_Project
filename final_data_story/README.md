@@ -1,12 +1,5 @@
 ## Blog post of your data story for COMM313 Final Project
 
-* This folder should contain the files that contain the output of all your data analysis. 
+In this folder, I have one notebook with the data story I have chosen to communicate my findings in the form of a blog post. I have situated my analysis in the struggles of the last year to test my hypothesis whether people are more grateful for friends/family and the contexts in which people talk about what they are grateful for.  I then venture into a separate but related analysis around how this relates to the different experiences of the last two years in how people refer to year, 2019, and 2020. 
 
-* You should create an engaging data blog that stands alone (i.e. it doesn't require the reader to look over all your analysis notebooks). 
-
-* Update this README file to describe the presentation.
-
-
-
-
-
+Enjoy!
